@@ -215,6 +215,30 @@
                 "name": "asoo_logo.png",
                 "relType": 1,
                 "path": "img\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_home.png",
+                "relType": 1,
+                "path": "img\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_answer.png",
+                "relType": 1,
+                "path": "img\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_error.png",
+                "relType": 1,
+                "path": "img\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_notice_03.png",
+                "relType": 1,
+                "path": "img\\"
               }
             ]
           },
@@ -376,6 +400,44 @@
                 "action": 6,
                 "relType": 1,
                 "path": "Source\\blank\\",
+                "comment": ""
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "community",
+            "children": [
+              {
+                "type": 5,
+                "name": "CommuMain.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "CommuMain.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "QnaPageView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "QnaPageView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
                 "comment": ""
               }
             ]

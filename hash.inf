@@ -1,7 +1,6 @@
 {
 	"changed": [
-		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\blank\\BlankView.js",
-		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\blank\\BlankView.html"
+		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\community\\CommuMain.js"
 	],
 	"version": "4.2.2",
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\library\\jquery-core.js": 1747187316000,
@@ -190,7 +189,7 @@
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\style\\compEx.css": 1747187316000,
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\style\\jquery-ui.css": 1747187316000,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\SpiderWebPageApp.js": 1748389706738.4998,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\MainView.js": 1748484872392.5398,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\MainView.js": 1748501141437.466,
 	"C:\\SampleTest\\SpiderWebPage\\Template\\SpiderWebPageApp_global.stl": 1748246246629.4436,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\MainView.lay": 1748476654354.4023,
 	"concat": true,
@@ -236,15 +235,21 @@
 	"C:\\SampleTest\\SpiderWebPage\\img\\asoo_logo.png": 1748413743713.4048,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\LoginModal.js": 1748473726701.394,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\RegisterView.js": 1748473709697.3767,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.js": 1748473775688.8186,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\LoginModal.lay": 1748476491570.608,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\RegisterView.lay": 1748484406430.1829,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.lay": 1748473783015.133,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.js": 1748505078691.963,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\LoginModal.lay": 1748485107768.4846,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\RegisterView.lay": 1748485092889.4888,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.lay": 1748504029623.763,
 	"C:\\SpiderGen\\SpiderGen4\\resources\\app\\bin\\Runner\\SpiderServer\\..\\..\\Library\\RadioBtnManager.js": 1747187316000,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\BlanckView.js": 1748484584748.8237,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\BlankView.lay": 1748484590840.6707,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\blank\\\\BlanckView.js": 1748484797810.8533,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\blank\\\\BlankView.lay": 1748484792588.6357,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\blank\\BlankView.js": 1748484963407.312,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\blank\\BlankView.lay": 1748484985739.878
+	"C:\\SampleTest\\SpiderWebPage\\Source\\blank\\BlankView.lay": 1748484985739.878,
+	"C:\\SampleTest\\SpiderWebPage\\img\\ic_home.png": 1748486442359.6821,
+	"C:\\SampleTest\\SpiderWebPage\\img\\ic_answer.png": 1748491677536.1853,
+	"C:\\SampleTest\\SpiderWebPage\\img\\ic_error.png": 1748491686584.0618,
+	"C:\\SampleTest\\SpiderWebPage\\img\\ic_notice_03.png": 1748497182932.2605,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\QnaPageView.js": 1748499567720.7712,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\QnaPageView.lay": 1748501883726.7126
 }

@@ -37,6 +37,7 @@ MainView = class MainView extends AView
        
         // 헤더 라디오버튼
         this.rbm = new RadioBtnManager(this);
+
 	}
 
 	onActiveDone(isFirst)
