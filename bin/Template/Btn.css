@@ -1,0 +1,29 @@
+
+.edit_here
+{
+	/* TODO:edit here */
+
+}
+
+.slide-btn
+{
+    background-color: transparent !important;
+}
+
+.header-menu-btn
+{
+   	cursor: pointer !important;
+	background-color: transparent !important;
+}
+
+.header-menu-btn:hover {
+	border-bottom: 2px solid #00FFFF !important;
+    color: #00FFFF !important;
+}
+
+.header-menu-disable
+{
+	border-bottom: 2px solid #00FFFF !important;
+    color: #00FFFF !important;
+}
+

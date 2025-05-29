@@ -1,0 +1,9 @@
+{
+  "styleName": "Btn",
+  "items": {
+    "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
+    "slide-btn": ".slide-btn\r\n{\r\n    background-color: transparent;\r\n}\r\n\r\n",
+    "header-menu-btn": ".header-menu-btn\r\n{\r\n   \tcursor: pointer;\r\n\tbackground-color: transparent;\r\n}\r\n\r\n.header-menu-btn:hover {\r\n\tborder-bottom: 2px solid #00FFFF;\r\n    color: #00FFFF;\r\n}\r\n\r\n",
+    "header-menu-disable": ".header-menu-disable\r\n{\r\n\tborder-bottom: 2px solid #00FFFF;\r\n    color: #00FFFF;\r\n}\r\n\r\n"
+  }
+}
