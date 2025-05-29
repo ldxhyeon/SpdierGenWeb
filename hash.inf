@@ -1,6 +1,7 @@
 {
 	"changed": [
-		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\community\\CommuMain.js"
+		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\community\\CommuMain.js",
+		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\community\\CommuMain.html"
 	],
 	"version": "4.2.2",
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\library\\jquery-core.js": 1747187316000,
@@ -235,10 +236,10 @@
 	"C:\\SampleTest\\SpiderWebPage\\img\\asoo_logo.png": 1748413743713.4048,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\LoginModal.js": 1748473726701.394,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\RegisterView.js": 1748473709697.3767,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.js": 1748505078691.963,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.js": 1748505224341.7688,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\LoginModal.lay": 1748485107768.4846,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\RegisterView.lay": 1748485092889.4888,
-	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.lay": 1748504029623.763,
+	"C:\\SampleTest\\SpiderWebPage\\Source\\CommuMain.lay": 1748505283443.2424,
 	"C:\\SpiderGen\\SpiderGen4\\resources\\app\\bin\\Runner\\SpiderServer\\..\\..\\Library\\RadioBtnManager.js": 1747187316000,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\BlanckView.js": 1748484584748.8237,
 	"C:\\SampleTest\\SpiderWebPage\\Source\\BlankView.lay": 1748484590840.6707,

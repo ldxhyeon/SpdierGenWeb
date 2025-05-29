@@ -28,7 +28,7 @@ CommuMain = class CommuMain extends AView
         // console.log(this.findCompById('commuNavi'));
         this.commuNavi.loadContainer('Source/community/CommuMain.lay').then(cntr => {
 
-            let navi = new ANavigator();
+            let navi = new ANavigator('testNavi', cntr);
 
             navi.registerPage('Source/community/QnaPageView.lay', 'qnaPage');
          
