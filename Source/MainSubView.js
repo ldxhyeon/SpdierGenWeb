@@ -32,8 +32,9 @@ MainSubView = class MainSubView extends AView
 		super.onActiveDone(isFirst)
 
 		//TODO:edit here
-
 	}
+
+    
 
 }
 

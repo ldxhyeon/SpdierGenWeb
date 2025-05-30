@@ -17,24 +17,26 @@ MainView = class MainView extends AView
 
 	}
 
-	async onInitDone()
+	onInitDone()
 	{
 		super.onInitDone()
+
+        window.tabView = this.tabView;
 
         // 탭뷰 메인 등록
         this.tabView.addTab('메인', 'Source/main/MainSubView.lay', 'main');
         this.tabView.addTab('도큐', 'Source/blank/BlankView.lay', 'docu');
         this.tabView.addTab('커뮤', 'Source/community/CommuMain.lay', 'commu');
         this.tabView.addTab('다운', 'Source/blank/BlankView.lay', 'down');
-        this.tabView.addTab('회사', 'Source/community/CommuMain.lay', 'company');
+        this.tabView.addTab('회사', 'Source/company/CompanyView.lay', 'company');
         this.tabView.addTab('화상', 'Source/blank/BlankView.lay', 'video');
         this.tabView.addTab('구름', 'Source/blank/BlankView.lay', 'cloud');
         this.tabView.addTab('wts', 'Source/blank/BlankView.lay', 'wts');
         this.tabView.addTab('회원가입', 'Source/main/RegisterView.lay', 'register');
+        this.tabView.addTab('질의응답', 'Source/community/QnaPageView.lay', 'qna');
 
 		this.tabView.selectTabById('main');
 
-       
         // 헤더 라디오버튼
         this.rbm = new RadioBtnManager(this);
 

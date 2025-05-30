@@ -1,0 +1,54 @@
+<div data-base="AView" data-class="ListViewItem" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: auto; background-color: rgb(255, 255, 255); overflow: hidden; border-left: 1px solid rgb(205, 205, 205); border-right: 1px solid rgb(205, 205, 205); border-bottom: 1px solid rgb(205, 205, 205); border-top-style: solid; border-top-color: rgb(205, 205, 205);" id="ListViewItem--listItem" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AButton&quot;,&quot;ALabel&quot;]}" data-browser-height="700" data-browser-width="910"
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 80px; align-items: stretch; position: relative; left: 0px; top: 0px; justify-content: space-between;"
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 76px; align-items: stretch; position: relative; left: 0px; top: 0px; justify-content: flex-start; margin-top: 0px;"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);"
+                        ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 50px; height: 50px; left: 0px; top: calc(50% - 25px); position: relative; border-radius: 50px; background-image: url(&quot;Assets/img/ic_login.png&quot;); background-repeat: round; background-size: contain; margin-left: 30px; display: inline-block;" data-background-option="fit" data-center-y="true" id="ListViewItem--qnaImage"></button
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 600px; height: 100%; left: 0px; top: 0px; position: relative; background-color: rgba(0, 0, 0, 0); margin-left: 1px;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; margin-top: 0px; flex-direction: column; place-content: center; margin-left: 20px;"
+                            ><div style="position: relative; box-sizing: border-box; align-self: flex-start;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 16px; font-family: NanumSquareR;" id="ListViewItem--qnaTitle">스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는 기능</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; align-self: flex-start;"
+                                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;"
+                                    ><div style="position: relative; box-sizing: border-box;"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14px; color: rgb(2, 191, 191); font-family: NanumSquareR;" id="ListViewItem--qnaName">kkisung</label
+                                    ></div
+                                    ><div style="position: relative; box-sizing: border-box;"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 20px; font-size: 15px; font-family: NanumSquareR; color: rgba(20, 20, 20, 0.53);" id="ListViewItem--qnaDate">2024/09/04</label
+                                    ></div
+                                ></div
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box; align-self: auto;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 200px; height: 100%; align-items: center; position: relative; justify-content: space-around; margin-top: 0px; margin-right: 0px; top: 0px; left: 0px;"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="position: relative; left: 0px; top: 0px; text-align: center; width: auto; height: auto; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; font-size: 16px;" data-center-y="true">답글</label
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; margin-left: 0px; margin-top: 0px; color: rgb(255, 0, 0); font-size: 16px;" data-center-y="true">1</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="position: relative; left: 0px; top: 0px; text-align: center; width: auto; height: auto; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; font-size: 16px;" data-center-y="true">답글</label
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; margin-left: 0px; margin-top: 0px; color: rgb(255, 0, 0); font-size: 16px;" data-center-y="true">1</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="position: relative; left: 0px; top: 0px; text-align: center; width: auto; height: auto; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; font-size: 16px;" data-center-y="true">답글</label
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 6.5px); display: inline-block; margin-left: 0px; margin-top: 0px; color: rgb(255, 0, 0); font-size: 16px;" data-center-y="true">1</label
+                    ></div
+                ></div
+            ></div
+        ></div
+    ></div
+></div>

@@ -13,7 +13,67 @@ QnaPageView = class QnaPageView extends AView
 	{
 		super.init(context, evtListener)
 
-		//TODO:edit here
+        this.listData = [
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung125'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+
+            { img : 'Assets/img/ic_login.png', 
+              title : '스파이더젠 4 내부 api docs 및 자동완성 메소드 설명 및 에제보는기능', 
+              date : '2024/09/04',
+              name : 'kisung123'
+            },
+        ];
 
 	}
 
@@ -21,7 +81,7 @@ QnaPageView = class QnaPageView extends AView
 	{
 		super.onInitDone()
 
-		//TODO:edit here
+        this.listView.addItem('Source/community/ListViewItem.lay', this.listData);
 
 	}
 
