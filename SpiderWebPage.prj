@@ -70,6 +70,14 @@
             "relType": 1,
             "path": "Template\\",
             "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "Border.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
           }
         ]
       },
@@ -395,6 +403,12 @@
               {
                 "type": 8,
                 "name": "ic_check_on.png",
+                "relType": 1,
+                "path": "img\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_password.png",
                 "relType": 1,
                 "path": "img\\"
               }

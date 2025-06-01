@@ -1,0 +1,7 @@
+{
+  "styleName": "Border",
+  "items": {
+    "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
+    "top-border": ".top-border\r\n{\r\n    border-top-left-radius: 5px;  \r\n    border-top-right-radius: 5px; \r\n}\r\n\r\n"
+  }
+}

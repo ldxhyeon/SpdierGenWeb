@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="Template/Font.css"/>
 	<link rel="stylesheet" href="Template/Btn.css"/>
 	<link rel="stylesheet" href="Template/CheckBox.css"/>
+	<link rel="stylesheet" href="Template/Border.css"/>
 
 
 
@@ -51,11 +52,12 @@
     
     document.addEventListener("DOMContentLoaded", () => 
     {
-		if(window._version) _version.setFileVersion();
 		afc.import("Source/SpiderWebPageApp.js");
 
         afc.scriptReady(() =>
         {
+            if(window._version) _version.setFileVersion();
+            
             window.theApp = new window["SpiderWebPageApp"]();
             window.theApp.isLoadTheme = false;
             
