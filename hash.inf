@@ -1,7 +1,5 @@
 {
-	"changed": [
-		"C:\\SampleTest\\SpiderWebPage\\bin\\Source\\main\\MainSubView.html"
-	],
+	"changed": [],
 	"version": "4.2.2",
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\library\\jquery-core.js": 1747187316000,
 	"C:\\SampleTest\\SpiderWebPage\\Framework\\afc\\library\\jquery-ui.js": 1747187316000,
