@@ -9,6 +9,7 @@ MainView = class MainView extends AView
 
 	}
 
+    // 초기화 코드
 	init(context, evtListener)
 	{
 		super.init(context, evtListener)
@@ -17,6 +18,10 @@ MainView = class MainView extends AView
 
 	}
 
+    
+
+    
+    // 초기화 끝난 후  코드
 	onInitDone()
 	{
 		super.onInitDone()
@@ -39,8 +44,8 @@ MainView = class MainView extends AView
 
         // 헤더 라디오버튼
         this.rbm = new RadioBtnManager(this);
-
 	}
+    
 
 	onActiveDone(isFirst)
 	{
@@ -132,11 +137,23 @@ MainView = class MainView extends AView
             isResizable: true
         });
 
-
+    
         wnd.openCenter('Source/main/LoginModal.lay', null, 400, 340).then(() => {
-        // 윈도우가 열리고 나서 실행할 코드
+            // 윈도우가 열리고 나서 실행할 코드
+            // 모달 열기 전 스크롤 방지
+            document.body.style.overflow = 'hidden';
+        });
+
+
+        // 윈도우가 닫힐 때 스크롤을 다시 활성화
+        wnd.setResultCallback((result, data) => {
+            // 모달 창이 닫힐 때 스크롤을 다시 활성화
+            document.body.style.overflow = 'auto';
         });
 	}
+
+      
+
 
 	
 

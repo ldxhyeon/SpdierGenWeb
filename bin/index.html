@@ -52,12 +52,11 @@
     
     document.addEventListener("DOMContentLoaded", () => 
     {
+		if(window._version) _version.setFileVersion();
 		afc.import("Source/SpiderWebPageApp.js");
 
         afc.scriptReady(() =>
         {
-            if(window._version) _version.setFileVersion();
-            
             window.theApp = new window["SpiderWebPageApp"]();
             window.theApp.isLoadTheme = false;
             

@@ -38,6 +38,8 @@ LoginModal = class LoginModal extends AView
 
 		this.getContainer().close();
 
+        document.body.style.overflow = 'auto';
+
 	}
 
 
@@ -58,11 +60,6 @@ LoginModal = class LoginModal extends AView
             AToast.show("UserId : " + userId + '\n UserPW : ' + userPw);
             this.getContainer().close();
         }
-
-
-        
-
-
 	}
 }
 
