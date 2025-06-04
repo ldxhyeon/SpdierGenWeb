@@ -33,7 +33,8 @@ CommuMain = class CommuMain extends AView
 
 	onQnaPageClick(comp, info, e)
 	{
-      window.tabView.selectTabById('qna');
+        // 윈도우 전역에 정의된 값 가져오기
+        window.tabView.selectTabById('qna');
 	}
 }
 

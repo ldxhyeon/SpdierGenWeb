@@ -41,6 +41,7 @@ MainSlideView3 = class MainSlideView3 extends AView
 	{
 
 		this.owner.slideTo(1);
+        console.log(this.owner);
 
 	}
 

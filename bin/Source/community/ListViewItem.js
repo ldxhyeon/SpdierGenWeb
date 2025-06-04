@@ -33,7 +33,7 @@ ListViewItem = class ListViewItem extends AView
 
 	}
 
-     setData(data)
+    setData(data)
     {
         this.qnaImage.setBackgroundImage(data.img);
         this.qnaName.setText(data.name);
